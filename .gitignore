@@ -1,2 +1,6 @@
-# Project exclude paths
-/venv/
+.idea
+.git
+venv
+db.sqlite3
+__pycache__
+new
